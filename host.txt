@@ -106,3 +106,12 @@ www.newtraderu.com
 cdp.howtotrade.com
 fr.scribd.com
 changelly.com
+monitor.lunio.ai
+de.swissquote.eu
+corpws1.swissquote.com
+resources.swissquote.eu
+cdn.plus500.com
+app.plus500.com
+plus500.com
+cdn-trade.plus500.com
+cdn-app.plus500.com
