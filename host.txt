@@ -96,3 +96,8 @@ unpkg.com
 spocketmaster.chargebeestaticv2.com
 embed-v2.testimonial.to
 testimonial.to
+askstockgpt.com
+cdn.tolt.io
+www.venturekit.ai
+cassini.maatoo.io
+launchpad.privacymanager.io
