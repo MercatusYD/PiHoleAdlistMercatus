@@ -84,3 +84,15 @@ load.collect.chat
 collectcdn.com
 kajabi-app-assets.kajabi-cdn.com
 xmxxt.mjt.lu
+cjdropshipping.com
+dodropshipping.com
+at.alicdn.com
+sentry.cjdropshipping.cn
+laz-g-cdn.alicdn.com
+eco-device.lazada.com
+lazada.com
+js.chargebee.com
+unpkg.com
+spocketmaster.chargebeestaticv2.com
+embed-v2.testimonial.to
+testimonial.to
